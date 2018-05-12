@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2534
     wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24858#The-Story-of-Wool
 gutenberg_bookshelf:
 - Manufacturing
 - Children's Instructional Books
